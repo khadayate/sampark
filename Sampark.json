@@ -13,6 +13,11 @@
     "SamparkType":"L"
   },
   {
+    "Country":"India",
+"State":"Maharashtra",
+"Type":"State Government",
+"Language":"IN-EN",
+"API":"/api/v1/showOfficer",
     "NameOfList":"Test:IAS MH Photo List",
     "NameOfList-MA":"भाप्रसे महा",
     "Title":"IAS Officer Photo MH",
@@ -26,6 +31,11 @@
     "SamparkType":"L"
   },    
   {
+    "Country":"India",
+"State":"Maharashtra",
+"Type":"Central Government",
+"Language":"IN-EN",
+"API":"/api/v1/showOfficer",
     "NameOfList":"Sample : NIC MH Officers",
     "NameOfList-MA":"रासूविके महा",
     "Title":"NIC MH Officers and Staff",
@@ -39,6 +49,11 @@
     "SamparkType":"L"
   },
   {
+    "Country":"India",
+"State":"Maharashtra",
+"Type":"State Government",
+"Language":"IN-EN",
+"API":"/api/v1/showOfficer",
     "NameOfList":"MAHAPAR EMD",
     "NameOfList-MA":"MH EMD MA",
     "Title":"MH EMD Title",
@@ -51,7 +66,11 @@
     "Authentication":"No",
     "SamparkType":"L"
   },
-  {
+  {    "Country":"India",
+"State":"Maharashtra",
+"Type":"State Government",
+"Language":"IN-EN",
+"API":"/api/v1/showOfficer",
     "NameOfList":"Test MH-PIS",
     "NameOfList-MA":"महा अधिकारी",
     "Title":"Maharashtra Officers",
@@ -64,7 +83,11 @@
     "Authentication":"No",
     "SamparkType":"L"
   },
-  {
+  {    "Country":"India",
+"State":"Maharashtra",
+"Type":"State Government",
+"Language":"IN-EN",
+"API":"/api/v1/showNotice",
     "NameOfList":"Test IAS-Notices",
     "NameOfList-MA":"नोटीस MH",
     "Title":"IAS (MH) Recent notices ",
