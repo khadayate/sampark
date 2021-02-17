@@ -12,6 +12,18 @@
     "Authentication":"No",
     "SamparkType":"L"
   },
+ {
+    "NameOfList":"IPS MH 2021 List",
+    "NameOfList-MA":"IPS महा",
+    "Title":"IPS Officer MH 2021",
+    "Title-MA":"भा.पो.से. महाराष्ट्र 2021",
+    "URL":"http://mahaias.maharashtra.gov.in",
+    "JSON":"https://raw.githubusercontent.com/Amey-Zope/NIC-JSON-PUBLIC/main/ias.json",
+    "SHA256":"121a16b4b19167fa4763b4e8760244932d0e2f303f591cfb990c265e2c8ed8c0",
+    "CreatedOn":"2017-01-01",
+    "Authentication":"No",
+    "SamparkType":"L"
+  },
   {
     "Country":"India",
 "State":"Maharashtra",
@@ -24,7 +36,7 @@
     "Title-MA":"भा.प्र.से. Photo महाराष्ट्र",
     "ICON":"data:image/jpeg;base64,AAABAAEAICAQAAAAAADoAgAAFgAAACgAAAAgAAAAQAAAAAEABAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAACAAAAAgIAAgAAAAIAAgACAgAAAwMDAAICAgAAAAP8AAP8AAAD//wD/AAAA/wD/AP//AAD///8AAAAAzMAAAAAMzAAAzMzMAAAAAO7AAAAADuwAzO7u7MAAAADuwAAAAA7sDO4AAO7MAAAA7sAAAAAO7A7sAAAO7AAAAO7AAAAADuwO7AAADuwAAADuzMzAAA7sDuwAAA7sAAAA7u7u7AAO7AAAzM7u7AAAAO7AAO7ADuwADu7u7gAAAADuwAAO4A7sAO7u4AAAAAAA7sAADuAO7A7uAADMwAAAAO7AAA7gDuwO7AAA7sAAAADuwADO4A7sDuzADO7AAAAA7szM7gAO7ADuzM7uwAAAAO7u7uAADuwADu7uAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAN3QAA3d0N3QAADd3dAAAACZ0AAJmdCZ0AAJmZndAAAAmdAACZnQmdAAmQAJndAAAJnQAJmZ0JnQCZAAAJnQAACZ0ACZmdCZ0JnQAAAJ3QAAmdAJkJnQmdCZ0AAACZ0AAJnQmZCZ0JnQmdAAAAAAAACZ0JkAmdCZ0JnQAAAAAAAAmdmZAJnQmdCZ0AAAAAAAAJnZkACZ0JnQmdAAAADdAACZmQAAmdCZ0JndAAAJnQAAmZkAAJnQmdAJndAAmQAAAJmQAACZ0JnQAJnQCZkAAACZkAAAmdCZ0AAJmZkAAAAAAAAAAAAAAAAAAAAAAAAAD8f48D/H+MAfx/iPD8f4j4/H+I+PwHiPj8A48A/HGOA/x5jB/8eYjx/HmI8fxxiGH8A4wB/AeOD////////////////48I+D+PCPAfjwjnD44Iz4+OCI/HjIiPx4iIj/+JiI//gYiP/4OIj+eHiIfHh4jDn4+I4x+PiPB//////w==",
     "URL":"http://mahaias.maharashtra.gov.in",
-    "JSON":"https://raw.githubusercontent.com/Amey-Zope/NIC-JSON-PUBLIC/main/ias.json",
+    "JSON":"https://raw.githubusercontent.com/khadayate/sampark/master/IPSMH.json",
     "SHA256":"121a16b4b19167fa4763b4e8760244932d0e2f303f591cfb990c265e2c8ed8c0",
     "CreatedOn":"2017-01-01",
     "Authentication":"No",
