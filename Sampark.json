@@ -67,23 +67,6 @@
     "CreatedOn":"2021-08-06",
     "Authentication":"No",
     "SamparkType":"N"
-  },
-    {    "Country":"India",
-"State":"Maharashtra",
-"Type":"State Government",
-"Language":"IN-EN",
-"API":"/api/v1/showNotice",
-    "NameOfList":"Test-2 IAS-Notices",
-    "NameOfList-MA":"नोटीस MH",
-    "Title":"IAS (MH) Recent notices ",
-    "Title-MA":"नोटीस MH",
-    "ICON":"data:image/png;base64,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",
-    "URL":"https://mahaias.maharashtra.gov.in",
-    "JSON":"https://mahaias.maharashtra.gov.in/mahaias/writereaddata/mobilenoticelist.json",
-    "SHA256":"a8665d4489936e42b9b818169ffc16ebcf06e0501992b182ccc92f7507a24847",
-    "CreatedOn":"2017-01-01",
-    "Authentication":"No",
-    "SamparkType":"N"
   }
 
 ]
