@@ -8,7 +8,7 @@
     "URL":"http://mahaias.maharashtra.gov.in",
     "JSON":"https://raw.githubusercontent.com/khadayate/sampark/master/IASMH.json",
     "SHA256":"121a16b4b19167fa4763b4e8760244932d0e2f303f591cfb990c265e2c8ed8c0",
-    "CreatedOn":"2021-10-07",
+    "CreatedOn":"2021-11-03",
     "Authentication":"No",
     "SamparkType":"L"
   },
@@ -64,7 +64,7 @@
     "URL":"https://mahaias.maharashtra.gov.in",
     "JSON":"https://raw.githubusercontent.com/khadayate/sampark/master/mobilenoticelist.json",
     "SHA256":"a8665d4489936e42b9b818169ffc16ebcf06e0501992b182ccc92f7507a24847",
-    "CreatedOn":"2021-10-07",
+    "CreatedOn":"2021-11-03",
     "Authentication":"No",
     "SamparkType":"N"
   }
