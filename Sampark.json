@@ -51,6 +51,20 @@
     "Authentication":"No",
     "SamparkType":"L"
   },
+  {
+    "NameOfList":"MH SUR DDMA",
+    "NameOfList-MA":"महा. SUR DDMA",
+    "Title":"District Disaster Management Authority Solapur",
+    "Title-MA":"जिल्हा आपत्ती व्यवस्थापन प्राधिकरण  सोलापूर ",
+    "ICON":"",
+    "URL":"https://solapur.gov.in/",
+    "API":"",
+    "JSON":"https://raw.githubusercontent.com/utkarshmh/sol-disaster-contacts/main/solsampark-150223.json",
+    "SHA256":"121a16b4b19167fa4763b4e8760244932d0e2f303f591cfb990c265e2c8ed8c0",
+    "CreatedOn":"2021-08-04",
+    "Authentication":"No",
+    "SamparkType":"L"
+  },
   {    "Country":"India",
 "State":"Maharashtra",
 "Type":"State Government",
